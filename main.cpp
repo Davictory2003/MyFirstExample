@@ -7,10 +7,9 @@ using std::endl;
 
 int main()
 {
-    cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
+    cout << "THE FIRST EXAMPLE DISPLAY!\n";
     cout << "Hi, please enter two whole numbers: ";
 
-    int x, y;
     int x, y;
 
     std::cin >> x >> y;
